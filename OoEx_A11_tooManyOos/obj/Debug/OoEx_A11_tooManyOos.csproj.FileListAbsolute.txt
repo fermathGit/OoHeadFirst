@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_A11_tooManyOos\bin\Debug\OoEx_A11_tooManyOos.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_A11_tooManyOos\bin\Debug\OoEx_A11_tooManyOos.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_A11_tooManyOos\bin\Debug\OoEx_A11_tooManyOos.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_A11_tooManyOos\obj\Debug\OoEx_A11_tooManyOos.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_A11_tooManyOos\obj\Debug\OoEx_A11_tooManyOos.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_A11_tooManyOos\obj\Debug\OoEx_A11_tooManyOos.pdb

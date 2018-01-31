@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_1_duck\bin\Debug\OoEx_1_duck.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_1_duck\bin\Debug\OoEx_1_duck.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_1_duck\bin\Debug\OoEx_1_duck.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_1_duck\obj\Debug\OoEx_1_duck.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_1_duck\obj\Debug\OoEx_1_duck.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_1_duck\obj\Debug\OoEx_1_duck.pdb

@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_5_singleton\bin\Debug\OoEx_5_singleton.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_5_singleton\bin\Debug\OoEx_5_singleton.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_5_singleton\bin\Debug\OoEx_5_singleton.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_5_singleton\obj\Debug\OoEx_5_singleton.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_5_singleton\obj\Debug\OoEx_5_singleton.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_5_singleton\obj\Debug\OoEx_5_singleton.pdb

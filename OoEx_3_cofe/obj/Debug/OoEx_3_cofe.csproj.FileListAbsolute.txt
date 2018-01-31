@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_3_cofe\bin\Debug\OoEx_3_cofe.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_3_cofe\bin\Debug\OoEx_3_cofe.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_3_cofe\bin\Debug\OoEx_3_cofe.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_3_cofe\obj\Debug\OoEx_3_cofe.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_3_cofe\obj\Debug\OoEx_3_cofe.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_3_cofe\obj\Debug\OoEx_3_cofe.pdb

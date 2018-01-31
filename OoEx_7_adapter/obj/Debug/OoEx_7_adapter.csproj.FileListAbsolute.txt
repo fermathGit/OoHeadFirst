@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_7_adapter\bin\Debug\OoEx_7_adapter.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_7_adapter\bin\Debug\OoEx_7_adapter.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_7_adapter\bin\Debug\OoEx_7_adapter.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_7_adapter\obj\Debug\OoEx_7_adapter.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_7_adapter\obj\Debug\OoEx_7_adapter.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_7_adapter\obj\Debug\OoEx_7_adapter.pdb

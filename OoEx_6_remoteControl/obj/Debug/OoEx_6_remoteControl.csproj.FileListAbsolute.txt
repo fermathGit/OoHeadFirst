@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_6_remoteControl\bin\Debug\OoEx_6_remoteControl.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_6_remoteControl\bin\Debug\OoEx_6_remoteControl.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_6_remoteControl\bin\Debug\OoEx_6_remoteControl.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_6_remoteControl\obj\Debug\OoEx_6_remoteControl.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_6_remoteControl\obj\Debug\OoEx_6_remoteControl.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_6_remoteControl\obj\Debug\OoEx_6_remoteControl.pdb

@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_4_pizza\bin\Debug\OoEx_4_pizza.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_4_pizza\obj\Debug\OoEx_4_pizza.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_4_pizza\bin\Debug\OoEx_4_pizza.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_4_pizza\bin\Debug\OoEx_4_pizza.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_4_pizza\obj\Debug\OoEx_4_pizza.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_4_pizza\obj\Debug\OoEx_4_pizza.pdb

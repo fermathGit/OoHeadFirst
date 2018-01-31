@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_2_weather\bin\Debug\OoEx_2_weather.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_2_weather\bin\Debug\OoEx_2_weather.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_2_weather\bin\Debug\OoEx_2_weather.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_2_weather\obj\Debug\OoEx_2_weather.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_2_weather\obj\Debug\OoEx_2_weather.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_2_weather\obj\Debug\OoEx_2_weather.pdb

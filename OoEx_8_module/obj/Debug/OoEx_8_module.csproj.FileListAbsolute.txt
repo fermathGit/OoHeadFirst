@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_8_module\bin\Debug\OoEx_8_module.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_8_module\bin\Debug\OoEx_8_module.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_8_module\bin\Debug\OoEx_8_module.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_8_module\obj\Debug\OoEx_8_module.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_8_module\obj\Debug\OoEx_8_module.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_8_module\obj\Debug\OoEx_8_module.pdb

@@ -1,0 +1,6 @@
+D:\Git\VSProjects\OoHeadFirst\OoEx_A10_gumballMachineFather\bin\Debug\OoEx_A10_gumballMachineFather.exe.config
+D:\Git\VSProjects\OoHeadFirst\OoEx_A10_gumballMachineFather\bin\Debug\OoEx_A10_gumballMachineFather.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_A10_gumballMachineFather\bin\Debug\OoEx_A10_gumballMachineFather.pdb
+D:\Git\VSProjects\OoHeadFirst\OoEx_A10_gumballMachineFather\obj\Debug\OoEx_A10_gumballMachineFather.csprojResolveAssemblyReference.cache
+D:\Git\VSProjects\OoHeadFirst\OoEx_A10_gumballMachineFather\obj\Debug\OoEx_A10_gumballMachineFather.exe
+D:\Git\VSProjects\OoHeadFirst\OoEx_A10_gumballMachineFather\obj\Debug\OoEx_A10_gumballMachineFather.pdb
